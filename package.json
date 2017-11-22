@@ -1,0 +1,27 @@
+{
+    "name": "google-oauth-node",
+    "version": "1.0.0",
+    "description": "use googleapi for oauth2.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hszy00232/google-oauth-node.git"
+    },
+    "keywords": [
+        "oauth"
+    ],
+    "author": "guopi <hszy00232@163.com> (http://geekfe.com)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hszy00232/google-oauth-node/issues"
+    },
+    "homepage": "https://github.com/hszy00232/google-oauth-node#readme",
+    "dependencies": {
+        "express": "^4.16.2",
+        "express-session": "^1.15.6",
+        "googleapis": "^22.2.0"
+    }
+}
